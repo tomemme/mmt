@@ -1,4 +1,4 @@
-# Medical Marijuana Tracker
+# myapp
 
 A new Flutter project.
 
